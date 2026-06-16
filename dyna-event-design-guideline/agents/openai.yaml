@@ -1,0 +1,4 @@
+interface:
+  display_name: "Dyna Event Design"
+  short_description: "Create Dyna.Ai event systems"
+  default_prompt: "Use $dyna-event-design-guideline to create a Dyna.Ai event KV or vendor-ready event spec."
