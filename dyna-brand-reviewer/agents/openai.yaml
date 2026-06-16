@@ -1,0 +1,4 @@
+interface:
+  display_name: "Dyna Brand Reviewer"
+  short_description: "Review Dyna.Ai brand assets"
+  default_prompt: "Use $dyna-brand-reviewer to audit a Dyna.Ai asset for brand quality and release readiness."
