@@ -1,0 +1,4 @@
+interface:
+  display_name: "Dyna Sales Enablement"
+  short_description: "Create Dyna.Ai sales materials"
+  default_prompt: "Use $dyna-sales-enablement-design to create a Dyna.Ai sales onepage, brief, or proof-led visual."
