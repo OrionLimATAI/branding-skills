@@ -1,0 +1,4 @@
+interface:
+  display_name: "Dyna Dashboard Design"
+  short_description: "Design Dyna.Ai dashboard UI"
+  default_prompt: "Use $dyna-dashboard-design-guideline to create a Dyna.Ai dashboard design spec."
