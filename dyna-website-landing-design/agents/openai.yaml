@@ -1,0 +1,4 @@
+interface:
+  display_name: "Dyna Website Landing"
+  short_description: "Design Dyna.Ai landing pages"
+  default_prompt: "Use $dyna-website-landing-design to create a Dyna.Ai landing page or website section spec."
