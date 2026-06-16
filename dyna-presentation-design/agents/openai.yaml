@@ -1,0 +1,4 @@
+interface:
+  display_name: "Dyna Presentation Design"
+  short_description: "Create Dyna.Ai presentation systems"
+  default_prompt: "Use $dyna-presentation-design to create or review a Dyna.Ai deck or slide system."
