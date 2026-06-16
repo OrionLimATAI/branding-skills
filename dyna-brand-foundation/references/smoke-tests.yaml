@@ -1,0 +1,23 @@
+smoke_tests:
+  - id: campaign-kv
+    prompt: "Use Dyna.Ai brand guidance to create a launch campaign KV direction for an enterprise AI product."
+    expected_skills:
+      - dyna-brand-foundation
+      - dyna-campaign-design
+      - dyna-brand-reviewer
+  - id: linkedin-carousel
+    prompt: "Create a LinkedIn carousel direction for a Dyna.Ai fintech insight post."
+    expected_skills:
+      - dyna-social-digital-design
+      - dyna-brand-reviewer
+  - id: booth-vendor-check
+    prompt: "Review an event booth visual before sending it to a vendor."
+    expected_skills:
+      - dyna-event-design-guideline
+      - dyna-brand-reviewer
+  - id: sales-onepage
+    prompt: "Create a buyer-facing onepage visual brief for a Dyna.Ai solution."
+    expected_skills:
+      - dyna-sales-enablement-design
+      - dyna-brand-reviewer
+
