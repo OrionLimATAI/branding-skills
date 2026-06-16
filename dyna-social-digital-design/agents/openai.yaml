@@ -1,0 +1,4 @@
+interface:
+  display_name: "Dyna Social Digital"
+  short_description: "Create Dyna.Ai social visuals"
+  default_prompt: "Use $dyna-social-digital-design to create a Dyna.Ai LinkedIn, EDM, banner, or digital ad visual."
