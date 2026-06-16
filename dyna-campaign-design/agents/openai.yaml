@@ -1,0 +1,4 @@
+interface:
+  display_name: "Dyna Campaign Design"
+  short_description: "Create Dyna.Ai campaign systems"
+  default_prompt: "Use $dyna-campaign-design to create a Dyna.Ai campaign KV and channel adaptation plan."
