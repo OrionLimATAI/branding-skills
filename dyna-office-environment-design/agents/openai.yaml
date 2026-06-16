@@ -1,0 +1,4 @@
+interface:
+  display_name: "Dyna Office Environment"
+  short_description: "Design Dyna.Ai office branding"
+  default_prompt: "Use $dyna-office-environment-design to create Dyna.Ai office, showroom, or signage guidance."
