@@ -1,0 +1,4 @@
+interface:
+  display_name: "Dyna Brand Foundation"
+  short_description: "Route Dyna.Ai brand workflows"
+  default_prompt: "Use $dyna-brand-foundation to choose the right Dyna.Ai brand source and scene skill."
